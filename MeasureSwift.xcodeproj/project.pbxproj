@@ -27,6 +27,7 @@
 		26CF646F2DCB3F6F00ACEAF6 /* MeasureSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeasureSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		26CF647C2DCB3F7200ACEAF6 /* MeasureSwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeasureSwiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		26CF64862DCB3F7200ACEAF6 /* MeasureSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeasureSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		26CF64A52DCB40F700ACEAF6 /* MeasureSwift.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = MeasureSwift.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +76,7 @@
 		26CF64662DCB3F6F00ACEAF6 = {
 			isa = PBXGroup;
 			children = (
+				26CF64A52DCB40F700ACEAF6 /* MeasureSwift.xctestplan */,
 				26CF64712DCB3F6F00ACEAF6 /* MeasureSwift */,
 				26CF647F2DCB3F7200ACEAF6 /* MeasureSwiftTests */,
 				26CF64892DCB3F7200ACEAF6 /* MeasureSwiftUITests */,
